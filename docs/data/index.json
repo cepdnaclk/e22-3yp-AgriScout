@@ -1,6 +1,6 @@
 {
     "team": [
-        {
+       {
             "name": "R.G.GUNAWARDANA",
             "email": "e22124@eng.pdn.ac.lk",
             "eNumber": "E/22/124"
@@ -19,20 +19,13 @@
             "name": "D.F.A.T.D.MATHANGADEERA",
             "email": "e22232@eng.pdn.ac.lk",
             "eNumber": "E/22/232"
-        }
+        }  
     ],
     "supervisors": [
         {
-            "name": "Dr. Supervisor 1",
-            "email": "email@eng.pdn.ac.lk"
-        },
-        {
-            "name": "Supervisor 2",
-            "email": "email@eng.pdn.ac.lk"
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk"
         }
     ],
-    "tags": [
-        "Web", 
-        "Embedded Systems"
-    ]
+    "tags": ["Web", "Embedded Systems"]
 }
