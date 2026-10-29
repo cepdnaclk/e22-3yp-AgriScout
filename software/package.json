@@ -1,0 +1,26 @@
+{
+  "name": "greenhouse-robot-monorepo",
+  "version": "1.0.0",
+  "description": "Automated Greenhouse Monitoring Robot — Full-Stack System",
+  "scripts": {
+    "test": "npm run test --prefix backend && python -m pytest robot/tests",
+    "test:backend": "npm run test --prefix backend",
+    "test:robot": "python -m pytest robot/tests -v",
+    "dev:backend": "npm run dev --prefix backend",
+    "dev:web": "npm run dev --prefix web",
+    "seed": "npm run seed --prefix backend",
+    "build:web": "npm run build --prefix web"
+  },
+  "keywords": [
+    "greenhouse",
+    "robotics",
+    "iot",
+    "modbus",
+    "raspberry-pi",
+    "agriculture",
+    "computer-vision",
+    "npk-sensor"
+  ],
+  "author": "Autonomous Greenhouse Robotics Team",
+  "license": "MIT"
+}

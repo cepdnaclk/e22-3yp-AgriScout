@@ -1,0 +1,13 @@
+# Python dependencies for Autonomous Greenhouse Monitoring Robot (Raspberry Pi 5)
+requests>=2.31.0
+python-dotenv>=1.0.1
+# Picamera2 is pre-installed via apt on Raspberry Pi OS Bookworm (python3-picamera2)
+# pymodbus is used for RS-485 Modbus RTU communication with NPK sensor
+pymodbus>=3.6.0
+pyserial>=3.5
+# Optional ML dependencies on Raspberry Pi:
+# tflite-runtime or onnxruntime or torch (for inference)
+pillow>=10.2.0
+# Testing
+pytest>=8.0.0
+pytest-mock>=3.12.0
