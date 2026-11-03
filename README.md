@@ -10,7 +10,7 @@
 
 Traditionally, farmers have to manually inspect plants and measure soil conditions[cite: 1]. This manual monitoring leads to several challenges:
 
-- The manual inspection process can be time-consuming[cite: 1].
+- The manual inspection process can be time consuming[cite: 1].
 - It may not provide continuous or accurate information regarding soil conditions, plant health, moisture levels, and diseases[cite: 1].
 
 AgriScout addresses these challenges by replacing manual monitoring with an autonomous robotic system that detects plant problems early and sends results to a cloud-based web platform[cite: 2].
